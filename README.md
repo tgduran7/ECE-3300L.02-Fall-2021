@@ -18,6 +18,6 @@ LAB6: Similar to LAB5, but includes 7 switches. Three switches determine the inp
 
 LAB7: Created a sequence detecotr with no overlapping using FSMs, memory, the BCD Up/Down counter, and seven segment display to display when we read a sequence. 5 switches control the clock divider and 4 switches are to load values into the memory for the sequence detector to read while running. Uses a read, write, and reset button. 
 
-LAB8(Partially Completed): Designed a 4-bit barrel shifter using BCD counters, seven segment displays, and memory. Two switches are assigned to one digit on the seven segment display. Once we push the enable button, the counter will start either incrementing or decrementing. If we push it again, the counter will stop. We can use the switches to barrel shift the digits right. 
+LAB8(Partially Completed): Designed a 4-bit barrel shifter using BCD counters, FIFOs, seven segment displays, and memory. Two switches are assigned to one digit on the seven segment display. Once we push the enable button, the counter will start either incrementing or decrementing. If we push it again, the counter will stop. We can use the switches to barrel shift the digits right. 
 
-LAB9(Partially Completed): Utilized the barrel shifter, but instead of using the BCD counter, we used a UART to input data onto the seven segment display and use the same switches to change the input. 
+LAB9(Partially Completed): Utilized the barrel shifter, but instead of using the BCD counter, we used a UART and FIFOS to input data onto the seven segment display and use the same switches to change the input. 
