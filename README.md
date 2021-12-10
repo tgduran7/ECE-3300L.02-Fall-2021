@@ -1,2 +1,3 @@
-# ECE-3300L.02-Fall-2021
-FPGA Projects
+# FPGA-Projects-Fall-2021
+
+All of my FPGA Projects from ECE3300 and ECE3300L.
